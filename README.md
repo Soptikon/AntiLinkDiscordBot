@@ -27,6 +27,8 @@ pip install -r requirements.txt
 ```
 
 ## 4. Run the bot
-```python main.py```
+```
+python main.py
+```
 
 Created By https://github.com/Soptikon
