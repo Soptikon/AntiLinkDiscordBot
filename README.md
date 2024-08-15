@@ -22,11 +22,11 @@ git clone https://github.com/Soptikon/AntiLinkDiscordBot.git
 ````
 
 ### 3. Install package
-´´
+```
 pip install -r requirements.txt
-´´
+```
 
 ## 4. Run the bot
-``python main.py``
+```python main.py```
 
 Created By https://github.com/Soptikon
