@@ -1,21 +1,33 @@
-MIT License
+LICENSE AGREEMENT
+Name of the Software: AntiLinkSpam
 
-Copyright (c) 2024 Soptikon
+Version: 1.0.0
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Copyright (c) 2024, Soptikon
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. License Grant
+Subject to the terms and conditions of this License Agreement, Soptikon hereby grants you a limited, non-exclusive, non-transferable, and revocable license to use and distribute AntiLinkSpam (the "Software").
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Restrictions
+You shall not:
+
+Modify, reverse engineer, decompile, or disassemble the Software.
+Remove any proprietary notices or labels on the Software.
+Use the Software for any illegal activities or in a way that violates the Discord Terms of Service.
+3. No Modification
+You may not modify, alter, or create derivative works of the Software, in whole or in part. Any unauthorized modification of the Software is strictly prohibited.
+
+4. Termination
+This license is effective until terminated. You may terminate it at any time by deleting the Software and all copies thereof. This license will also terminate if you fail to comply with any term or condition of this License Agreement. Upon such termination, you agree to delete the Software and all copies thereof.
+
+5. Disclaimer of Warranty
+The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+6. Limitation of Liability
+In no event will Soptikon be liable for any damages, including any lost profits, lost savings, or other incidental or consequential damages arising out of the use or inability to use the Software, even if Soptikon has been advised of the possibility of such damages.
+
+7. Governing Law
+This License Agreement shall be governed by and construed in accordance with the laws of [Your Country or State], without regard to its conflict of laws principles.
+
+8. Entire Agreement
+This License Agreement constitutes the entire agreement between the parties with respect to the Software and supersedes all prior or contemporaneous understandings regarding such subject matter.
