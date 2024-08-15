@@ -1,4 +1,4 @@
-# [Your Discord Bot Name]
+# AntiLink Discord Bot
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 
