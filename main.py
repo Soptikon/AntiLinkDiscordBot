@@ -16,7 +16,7 @@ intents = nextcord.Intents.default()
 intents.message_content = True
 
 
-bot = commands.Bot(command_prefix='D!', intents=intents)
+bot = commands.Bot(command_prefix='sop.', intents=intents)
 
 @bot.event
 async def on_ready():
